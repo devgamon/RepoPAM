@@ -11,8 +11,9 @@ const FirstText = () => {
 
 const styles = StyleSheet.create({
     paragraph: {
-        fontSize: 10,
+        fontSize: 14,
         marginBottom: 20,
+        textAlign: 'justify',
     },
     blueText: {
         color: 'purple',
